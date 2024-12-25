@@ -1,0 +1,8 @@
+Name= ("Роман")
+print('Name',Name)
+age=(24)
+print('Age',age)
+newage=(age+1)
+print('New age',newage)
+IS_student=bool(True)
+print('Is_student',IS_student)
